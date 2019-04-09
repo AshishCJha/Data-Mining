@@ -11,3 +11,5 @@ Popular Data Mining Techniques
 2. KDD (Knowledge Discovery in Databases)
 
 3. SEMMA (Sample, Explore, Modify, Model, Assess)
+
+Basics for CRISP-DM and SEMMA are availble in this reprository.
