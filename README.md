@@ -5,6 +5,9 @@ Data Mining is the process of discovering hidden patterns in large amount of dat
 According to SAS :  Data Mining as advanced methods for exploring and modeling relationships in large amounts of data.
 
 Popular Data Mining Techniques
-CRISP-DM (Cross-industry standard process for data mining)
-KDD (Knowledge Discovery in Databases)
-SEMMA (Sample, Explore, Modify, Model, Assess)
+
+1. CRISP-DM (Cross-industry standard process for data mining)
+
+2. KDD (Knowledge Discovery in Databases)
+
+3. SEMMA (Sample, Explore, Modify, Model, Assess)
